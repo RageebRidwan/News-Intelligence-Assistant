@@ -30,10 +30,7 @@ A powerful **RAG-powered** (Retrieval-Augmented Generation) content analysis sys
 ### Welcome Screen
 ![Welcome Screen](screenshots/welcome.jpg)
 
-### Data Ingestion
-![Data Ingestion](screenshots/ingestion.jpg)
-
-### Chat Interface
+### Data Ingestion & Chat Interface
 ![Chat Interface](screenshots/chat.jpg)
 
 ### Summary Generation
