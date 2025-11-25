@@ -1,0 +1,23 @@
+# Core AI/LLM
+langchain
+langchain-ollama
+langchain-community
+langchain-classic
+
+# Vector Store
+faiss-cpu
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Frontend
+streamlit
+
+# Utilities
+python-dotenv
+pandas
+
+# Optional: For better performance
+tiktoken
